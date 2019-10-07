@@ -1,0 +1,36 @@
+Hello Adventurer, what is your name ? 
+ - user types name.
+ if user submits name, promt are you ready for your journey ? 
+ returns yes or no
+  if yes user begins adventure.
+  if no user dies.
+once adventure begins prompt choose weapon
+(sword,axe,mace)
+
+if user chooses sword 
+  user fights minotaur.
+  prompt user to fight or run 
+    if user runs user falls off cliff into water
+      user espcapes but is branded a coward and exiled.
+    if user fights 
+      prompt to dodge or strike
+        if user dodges, user is safe, after dodge user strikes killing beast and user is victorious.
+        if user strikes first, user is injured and loses an arm, but is victorious in the fight.
+
+if user chooses axe
+  user fights basilisk
+    prompt user to fight or run;
+      if user fights basilisk overpowers user and you are gamed over.
+      if user runs user finds higher ground and kills the beast.
+
+if user chooses mace
+  user fights Hydra
+    user is prompted to fight, run, or get help
+      if user fights user gets wierd vision and is asked to view vision. yes or no
+        if yes user gets a boost from the gods and defeats Hydra
+        if no user gets all weapons armour and abilities taken and is telported to the underworld.
+
+      if user choses run
+        user cannot escape and is defeated.
+
+      if user chooses get help user is assisted by a wizard who freezes the hydra and the user smashes the hydra with the mace.
