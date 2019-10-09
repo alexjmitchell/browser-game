@@ -68,7 +68,7 @@ const axe = () => {
     alert(
       "You've chosen to fight, but before you can think the basilisk moves in and over powers you"
     )
-    alert("game over!!!!!!").toUpperCase
+    alert("game over!!!!!!".toUpperCase())
   } else {
     while (choice !== "fight" || "run") {
       alert("You've made an improper choice")
